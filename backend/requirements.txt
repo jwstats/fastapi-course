@@ -1,2 +1,9 @@
 fastapi
 uvicorn
+
+#database
+sqlalchemy
+psycopg2
+
+#env
+python-dotenv
