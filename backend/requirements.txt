@@ -24,3 +24,6 @@ python-jose
 
 #formdata
 python-multipart
+
+#for templating
+jinja2
